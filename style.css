@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: d;
+}
+  
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+  
+button {
+    margin-left: 40%;
+    width: 20%;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: rgb(72, 209, 113);
+    color: black;
+}
+  
+div {
+    margin-top: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 10%;
+}
